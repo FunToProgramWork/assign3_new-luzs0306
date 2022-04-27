@@ -379,7 +379,7 @@ void keyPressed() {
     break;
 
   case 'd':
-    if (playerHealth < 5) playerHealth ++;
+    if (playerHealth < 2) playerHealth ++;
     break;
   }
 }
